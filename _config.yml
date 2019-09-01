@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "paulina haduong"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Paulina Haduong"
+description              : &description "Website"
+url                      : https://paulinahaduong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "paulinahaduong/paulinahaduong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paulina Haduong"
+  name             : "paulina haduong"
   avatar           : "profile.png"
   bio              : "PhD student at the Harvard Graduate School of Education"
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c4Lo1W0AAAAJ&hl"
-  email            :
+  email            : haduong@g.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
