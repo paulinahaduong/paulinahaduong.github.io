@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Helping K--12 Teachers Get Unstuck with Scratch: The Design of an Online Professional Learning Experience"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2019-sigcse-gettingunstuck
+excerpt: 'K--12 introductory programming experiences are often highly scaffolded, and it can be challenging for teachers and learners to transition from these scaffolded experiences to experiences of learner-directed creative work...'
+date: 2019
+venue: 'Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)'
+paperurl: 'https://dl.acm.org/citation.cfm?id=3287479'
+citation: 'Haduong,P. & Brennan, K. (2019). Helping K--12 Teachers Get Unstuck with Scratch: The Design of an Online Professional Learning Experience. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 1095-1101. DOI: https://doi.org/10.1145/3287324.3287479'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Abstract:** K--12 introductory programming experiences are often highly scaffolded, and it can be challenging for teachers and learners to transition from these scaffolded experiences to experiences of learner-directed creative work, where learners are solving problems and fluently expressing ideas through code. Learners can often "get stuck" in this creative process due to a number of different factors: (1) imagination, (2) concepts, (3) bugs, (4) doubt, and (5) pedagogy. Teachers can support learners in overcoming these factors, but K--12 computing teachers often have minimal preparation and lack computer science backgrounds. However, effective professional development can support teachers in developing the computing skills and pedagogical frameworks for facilitating powerful learning experiences for young people. In this paper, we describe the design and implementation of Getting Unstuck, a 21-day, email-based learning experience for K--12 teachers interested in developing greater familiarity and fluency with Scratch. More than 1,900 people subscribed to the mailing list, with 400 people completing at least one day and 73 people completing all 21 days of activities. Participants received a daily email that invited them to: (1) create a Scratch project in response to a creative prompt that focused on a particular programming concept or Scratch feature, (2) share their work in the online community, and (3) reflect on their learning. We discuss our design decisions and how participants responded to them. We hope that this rich description of the course design will offer insights and inspiration for other CS educators who are designing similar K--12 professional development experiences.
 
-[Download paper here](https://academicpages.github.io/files/paper2.pdf)
+<!-- [Download paper here](https://academicpages.github.io/files/paper2.pdf) -->
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Haduong,P. & Brennan, K. (2019). Helping K--12 Teachers Get Unstuck with Scratch: The Design of an Online Professional Learning Experience. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 1095-1101. DOI: https://doi.org/10.1145/3287324.3287479

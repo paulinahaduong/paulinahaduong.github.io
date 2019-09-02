@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The effects of first programming language on college students’ computing attitude and achievement: a comparison of graphical and textual languages"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-ficsit
+excerpt: '**Abstract:** The relationship between novices’ first programming language and their future achievement has drawn increasing interest owing to recent efforts to expand K–12 computing education...'
+date: 2018
+venue: 'Computer Science Education'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1547564'
+citation: 'Chen, C., Haduong, P., Brennan, K., Sonnert, G., & Sadler, P. (2019). The effects of first programming language on college students’ computing attitude and achievement: a comparison of graphical and textual languages. <i>Computer Science Education</i>, 29(1), 23-48.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Abstract:** The relationship between novices’ first programming language and their future achievement has drawn increasing interest owing to recent efforts to expand K–12 computing education... This article contributes to this topic by analyzing data from a retrospective study of more than 10,000 undergraduates enrolled in introductory computer science courses at 118 U.S. institutions of higher education...
 
-[Download paper here](https://academicpages.github.io/files/paper1.pdf)
+<!-- [Download paper here](https://academicpages.github.io/files/paper1.pdf) -->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Chen, C., Haduong, P., Brennan, K., Sonnert, G., & Sadler, P. (2019). The effects of first programming language on college students’ computing attitude and achievement: a comparison of graphical and textual languages. <i>Computer Science Education</i>, 29(1), 23-48.'
