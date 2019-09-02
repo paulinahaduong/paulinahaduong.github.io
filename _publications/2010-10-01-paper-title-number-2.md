@@ -3,7 +3,7 @@ title: "Helping K--12 Teachers Get Unstuck with Scratch: The Design of an Online
 collection: publications
 permalink: /publication/2019-sigcse-gettingunstuck
 excerpt: 'K--12 introductory programming experiences are often highly scaffolded, and it can be challenging for teachers and learners to transition from these scaffolded experiences to experiences of learner-directed creative work...'
-date: 2019
+date: 2019-03-02
 venue: 'Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3287479'
 citation: 'Haduong,P. & Brennan, K. (2019). Helping K--12 Teachers Get Unstuck with Scratch: The Design of an Online Professional Learning Experience. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. ACM, New York, NY, USA, 1095-1101. DOI: https://doi.org/10.1145/3287324.3287479'
