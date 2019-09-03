@@ -1,7 +1,7 @@
 ---
 title: "The effects of first programming language on college students’ computing attitude and achievement: a comparison of graphical and textual languages"
 collection: publications
-permalink: /publication/2018-ficsit
+permalink: /publication/2018-1-ficsit
 excerpt: '**Abstract:** The relationship between novices’ first programming language and their future achievement has drawn increasing interest owing to recent efforts to expand K–12 computing education...'
 date: 2018-11-15
 venue: 'Computer Science Education'
